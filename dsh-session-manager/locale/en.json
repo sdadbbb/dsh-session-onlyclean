@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session manager",
+    "description": "Lists this machine's sessions by workspace and permanently deletes the ones you pick."
+  }
+}
