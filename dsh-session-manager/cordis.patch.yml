@@ -1,4 +1,0 @@
-# dsh-session-onlyclean — bundle patch (applied automatically through dsh.bundle.patch)
-- insert:
-    - id: dsh-session-onlyclean
-      name: dsh-session-onlyclean
